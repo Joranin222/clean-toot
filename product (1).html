@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>สินค้าทั้งหมด — Clean toot</title>
+  <meta name="description" content="แปรงสีฟัน น้ำยาบ้วนปาก และยาสีฟัน จาก Clean toot เลือกตามอารมณ์ของคุณ">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <a class="logo" href="index.html">Clean toot</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav">เมนู</button>
+      <nav class="nav" id="main-nav" aria-label="เมนูหลัก">
+        <a href="index.html">หน้าแรก</a>
+        <a href="product.html" aria-current="page">สินค้าทั้งหมด</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="page-head">
+      <div class="container">
+        <h1>สินค้าทั้งหมด</h1>
+        <hr class="divider divider--gold">
+        <p class="lead">แปรงสีฟัน น้ำยาบ้วนปาก และยาสีฟัน เลือกตามอารมณ์ที่ใช่สำหรับคุณ</p>
+      </div>
+    </section>
+
+    <section class="section section--tight-top">
+      <div class="container">
+        <div class="filter" id="filter-bar"></div>
+        <div class="product-grid" id="product-list"></div>
+        <noscript><p class="muted">กรุณาเปิดใช้งาน JavaScript เพื่อดูรายการสินค้า</p></noscript>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__grid">
+        <div>
+          <a class="logo" href="index.html">Clean toot</a>
+          <p class="mt-3">แปรงสีฟันและผลิตภัณฑ์ดูแลช่องปากที่ตอบโจทย์ทุกอารมณ์ของคุณ</p>
+        </div>
+        <div>
+          <h4>เมนู</h4>
+          <ul>
+            <li><a href="index.html">หน้าแรก</a></li>
+            <li><a href="product.html">สินค้าทั้งหมด</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>เลือกตามอารมณ์</h4>
+          <ul>
+            <li><a href="product.html?mood=fresh">Fresh</a></li>
+            <li><a href="product.html?mood=sweet">Sweet</a></li>
+            <li><a href="product.html?mood=confident">Confident</a></li>
+            <li><a href="product.html?mood=romance">Romance</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="site-footer__bottom">© Clean toot</div>
+    </div>
+  </footer>
+
+</body>
+</html>

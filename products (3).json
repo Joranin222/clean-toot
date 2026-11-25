@@ -1,0 +1,106 @@
+{
+  "brand": "Clean toot",
+  "currency": "THB",
+  "products": [
+    {
+      "id": "cleantoot-001",
+      "name": "แปรงสีฟัน เด็ก (แบบ 1)",
+      "mood": "fresh",
+      "type": "toothbrush",
+      "size": "เด็ก",
+      "price": 89,
+      "image": "images/fresh.jpg",
+      "description": "แปรงขนนุ่มพิเศษ ด้ามจับกระชับมือเล็ก ดูแลเหงือกและฟันน้ำนมอย่างอ่อนโยน"
+    },
+    {
+      "id": "cleantoot-002",
+      "name": "แปรงสีฟัน เด็ก (แบบ 2)",
+      "mood": "fresh",
+      "type": "toothbrush",
+      "size": "เด็ก",
+      "price": 89,
+      "image": "images/fresh.jpg",
+      "description": "ขนแปรงปลายมนนุ่ม ทำความสะอาดทั่วถึงโดยไม่ระคายเคือง เหมาะกับการเริ่มแปรงฟันด้วยตัวเอง"
+    },
+    {
+      "id": "cleantoot-003",
+      "name": "แปรงสีฟัน ผู้ใหญ่ (แบบ 1)",
+      "mood": "sweet",
+      "type": "toothbrush",
+      "size": "ผู้ใหญ่",
+      "price": 109,
+      "image": "images/sweet.jpg",
+      "description": "ขนแปรงนุ่มแน่น หัวแปรงเรียวเข้าถึงซอกฟันด้านใน ด้ามจับสมดุลถนัดมือ"
+    },
+    {
+      "id": "cleantoot-004",
+      "name": "แปรงสีฟัน ผู้ใหญ่ (แบบ 2)",
+      "mood": "sweet",
+      "type": "toothbrush",
+      "size": "ผู้ใหญ่",
+      "price": 109,
+      "image": "images/sweet.jpg",
+      "description": "ขนแปรงสองระดับช่วยกำจัดคราบอย่างหมดจด พร้อมดูแลขอบเหงือกอย่างนุ่มนวล"
+    },
+    {
+      "id": "cleantoot-005",
+      "name": "น้ำยาบ้วนปาก มิ้นท์",
+      "mood": "confident",
+      "type": "mouthwash",
+      "size": "30 ml",
+      "price": 89,
+      "image": "images/confident.jpg",
+      "description": "ความเย็นสะอาดของมิ้นท์ ลมหายใจสดชื่นยาวนาน ขนาดเล็กพกพาสะดวก"
+    },
+    {
+      "id": "cleantoot-006",
+      "name": "น้ำยาบ้วนปาก สตรอว์เบอร์รี่",
+      "mood": "confident",
+      "type": "mouthwash",
+      "size": "100 ml",
+      "price": 199,
+      "image": "images/confident.jpg",
+      "description": "กลิ่นสตรอว์เบอร์รี่หอมละมุน ลดกลิ่นปากอย่างอ่อนโยน ขนาดคุ้มค่าสำหรับใช้ที่บ้าน"
+    },
+    {
+      "id": "cleantoot-007",
+      "name": "น้ำยาบ้วนปาก สมุนไพร",
+      "mood": "romance",
+      "type": "mouthwash",
+      "size": "30 ml",
+      "price": 89,
+      "image": "images/romance.jpg",
+      "description": "สกัดจากสมุนไพรธรรมชาติ ให้ความรู้สึกสะอาดสบายปาก ขนาดเล็กพกพาสะดวก"
+    },
+    {
+      "id": "cleantoot-008",
+      "name": "น้ำยาบ้วนปาก มิกซ์เบอร์รี่",
+      "mood": "romance",
+      "type": "mouthwash",
+      "size": "100 ml",
+      "price": 199,
+      "image": "images/romance.jpg",
+      "description": "กลิ่นมิกซ์เบอร์รี่หอมหวานนุ่มลึก ปากสะอาดสดชื่นตลอดวัน ขนาดคุ้มค่าสำหรับใช้ที่บ้าน"
+    },
+    {
+      "id": "cleantoot-009",
+      "name": "ยาสีฟัน Fresh",
+      "mood": "fresh",
+      "type": "toothpaste",
+      "size": null,
+      "price": 149,
+      "image": "images/fresh.jpg",
+      "description": "สูตรเย็นสดชื่น ขจัดคราบอย่างอ่อนโยน ปกป้องเคลือบฟันให้สะอาดทุกวัน"
+    },
+    {
+      "id": "cleantoot-010",
+      "name": "ยาสีฟัน Sweet",
+      "mood": "sweet",
+      "type": "toothpaste",
+      "size": null,
+      "price": 149,
+      "image": "images/sweet.jpg",
+      "description": "สูตรหอมหวานละมุน ทำความสะอาดฟันอย่างนุ่มนวล ปากสะอาดมั่นใจ"
+    }
+  ]
+}
